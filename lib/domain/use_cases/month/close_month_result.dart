@@ -1,0 +1,1 @@
+enum CloseMonthResult { completed, notFound }
